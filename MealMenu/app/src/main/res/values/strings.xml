@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MealMenu</string>
+    <string-array name="mealoptionsarray">
+        <item>None</item>
+        <item>Chicken Burger</item>
+        <item>Veg Burger</item>
+        <item>Chicken Wrap</item>
+        <item>Veg Burger</item>
+        <item>Chicken Nuggets</item>
+        <item>Veg Burger</item>
+        <item>Potato Wedges</item>
+        <item>French Fries</item>
+        <item>Cold Drinks</item>
+        <item>Hot Beverages</item>
+    </string-array>
 </resources>
